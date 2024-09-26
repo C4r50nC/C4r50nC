@@ -4,7 +4,7 @@ Hi 👋 My name is Carson
 Full-stack Software Developer
 -----------------------------
 
-I am a full-stack developer leaning towards the back-end side. I have been learning programming for more than 5 years, and I am interested in all new technologies! I love exploring different tech stacks and build projects with them, so feel free to reach me if you have a great idea and are looking for someone for collaboration.
+I am a full-stack developer leaning towards the back-end side. I have been learning programming for years, and I am still interested in all new technologies! I love exploring different tech stacks and build projects with them, so feel free to reach me if you have a great idea and are looking for someone for collaboration.
 
 * 🌍  I'm based in Melbourne
 * ✉️  You can contact me at [xichen059@gmail.com](mailto:xichen059@gmail.com)
